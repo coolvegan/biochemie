@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Glutamin.md",
+            "file": "Serotonin.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Glutamin.md",
+                "file": "Serotonin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "2696a51a24acd929",
   "lastOpenFiles": [
-    "Glutamin.md",
+    "Serotonin.md",
+    "Apigenin.md",
+    "Dopamin.md",
+    "Neurotransmiter.md",
     "Gaba.md",
-    "Flavonoide.md",
-    "Zink.md",
-    "Cortisol.md",
-    "Magnesium.md",
-    "Vitamin B6.md",
-    "Stress.md",
-    "Phosphatidylserin.md",
-    "Ängstlichkeit.md"
+    "Antioxidant.md",
+    "Entzündungshemmend.md",
+    "Haut.md",
+    "Hauttrockenheit.md",
+    "Krebs.md"
   ]
 }

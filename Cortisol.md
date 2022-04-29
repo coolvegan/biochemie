@@ -10,4 +10,11 @@
 - wird reduziert durch [[Ashwagandha]]
 - [[Phosphatidylserin]] senkt Cortisol nach Sport
 - [[Gaba]] reduziert [[Stress]]
-- 
+- [[Trauma]] erhöht Cortisolspiegel dauerhauft laut Studie an Erdbebenopfern in China im Jahr 2008 
+
+### Senken mit
+[[Ashwagandha]]
+[[Meditation]]
+[[Fischöl]]
+[[Kamillentee]]
+

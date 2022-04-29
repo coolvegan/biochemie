@@ -1,0 +1,12 @@
+## Apigenin
+- sekundärer Pflanzenstoff
+- ist ein [[Flavonoide]]
+- enthalten in [[Kamillentee]], [[Petersilie]], [[Sellerie]], [[Artischocken]], [[Hauhechel]], [[Salbei]], [[Schafgarbe]], [[[Grapefruit]]]
+- verhindert [[Krebs]]
+- vermindert Hautschäden durch UV-Licht [[Hauttrockenheit]]
+- ist ein [[Antioxidant]]
+- ist [[Entzündungshemmend]]
+- kann bei [[Gaba]] Rezeptoren andocken
+- begünstigt Stoffwechsel der [[Neurotransmiter]], [[Dopamin]], [[Serotonin]]
+- 
+- 
