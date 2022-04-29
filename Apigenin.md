@@ -4,7 +4,7 @@
 - enthalten in [[Kamillentee]], [[Petersilie]], [[Sellerie]], [[Artischocken]], [[Hauhechel]], [[Salbei]], [[Schafgarbe]], [[[Grapefruit]]]
 - verhindert [[Krebs]]
 - vermindert Hautschäden durch UV-Licht [[Hauttrockenheit]]
-- ist ein [[Antioxidant]]
+- ist ein [[Antioxidanz]]
 - ist [[Entzündungshemmend]]
 - kann bei [[Gaba]] Rezeptoren andocken
 - begünstigt Stoffwechsel der [[Neurotransmiter]], [[Dopamin]], [[Serotonin]]

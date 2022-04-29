@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "2696a51a24acd929",
+        "id": "84412e3906fafbbe",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Serotonin.md",
+            "file": "Glutaminsäure.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Serotonin.md",
+                "file": "Glutaminsäure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2696a51a24acd929",
+  "active": "84412e3906fafbbe",
   "lastOpenFiles": [
-    "Serotonin.md",
-    "Apigenin.md",
-    "Dopamin.md",
-    "Neurotransmiter.md",
+    "Glutaminsäure.md",
+    "Ester.md",
+    "Glutamat.md",
+    "Ammoniak.md",
+    "Glutamin.md",
     "Gaba.md",
-    "Antioxidant.md",
-    "Entzündungshemmend.md",
-    "Haut.md",
-    "Hauttrockenheit.md",
-    "Krebs.md"
+    "Glutathion.md",
+    "Aminosäuren.md",
+    "Antioxidanz.md",
+    "Koffein.md"
   ]
 }
