@@ -1,1 +1,2 @@
 ## Magnesium
+-blockiert [[NMDA-Rezeptor]]

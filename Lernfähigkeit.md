@@ -1,0 +1,2 @@
+## Lernfähigkeit
+[[Lernschwäche]]
