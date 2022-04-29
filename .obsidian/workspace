@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "f05a20576e519567",
+    "type": "split",
+    "children": [
+      {
+        "id": "2696a51a24acd929",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Glutamin.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "40e37ea897a561cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "6cd27a6324252c02",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d044d231a3976fac",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "95df77384064bdf2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 249
+  },
+  "right": {
+    "id": "b77a49d6f199e1b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6ca45e1f5824710",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "312ccf160dad1093",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Glutamin.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2696a51a24acd929",
+  "lastOpenFiles": [
+    "Glutamin.md",
+    "Gaba.md",
+    "Flavonoide.md",
+    "Zink.md",
+    "Cortisol.md",
+    "Magnesium.md",
+    "Vitamin B6.md",
+    "Stress.md",
+    "Phosphatidylserin.md",
+    "Ängstlichkeit.md"
+  ]
+}

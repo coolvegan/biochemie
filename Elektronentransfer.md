@@ -1,0 +1,3 @@
+## Elektronentransfer
+- bildet [[Freie Radikale]]
+- 

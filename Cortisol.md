@@ -1,0 +1,13 @@
+## Cortisol
+- [[Stresshormon]]
+- wird in den [[Nebennieren]] gebildet
+- wird durch [[Koffein]] gesteigert
+- Gegenspieler von [[Dhea]]
+- Spitzenwert früh morgens um 9 Uhr
+- Tiefwert nachts um 0:00 Uhr
+- hoher Wert führt zu fragmentiertem Schlaf, [[Schlaflosigkeit]]
+- scheint Erinnerungen zu markieren
+- wird reduziert durch [[Ashwagandha]]
+- [[Phosphatidylserin]] senkt Cortisol nach Sport
+- [[Gaba]] reduziert [[Stress]]
+- 
