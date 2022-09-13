@@ -15,7 +15,6 @@
 ### Dosierung
 - Mann 25 - 50 mg
 - Frau 25 mg, zuviel [[Akne]]
-- 
 
 ### Mangelsymtpome
 - [[Müdigkeit]]
@@ -25,4 +24,3 @@
 - [[Ängstlichkeit]]
 - [[Schlaflosigkeit]]
 - [[Hauttrockenheit]]
-- 

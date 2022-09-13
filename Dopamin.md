@@ -1,1 +1,4 @@
 ## Dopamin
+- [[Tyrosin]] fördert Dopaminbildung
+- 
+- 
